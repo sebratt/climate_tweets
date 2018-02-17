@@ -1,0 +1,8 @@
+show dbs
+use <name of db> 
+show collections
+
+db.tweets.findOne()
+db.tweets.find( { text: { $regex: /ppm$/ } } ) #regular expression match for SELECT * FROM tweets WHERE text like "%ppm"
+
+# Source: https://docs.mongodb.com/manual/reference/operator/query/regex/#examples
