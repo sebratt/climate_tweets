@@ -4,5 +4,10 @@ show collections
 
 db.tweets.findOne()
 db.tweets.find( { text: { $regex: /ppm$/ } } ) #regular expression match for SELECT * FROM tweets WHERE text like "%ppm"
-
+db.tweets.find( { text: { $regex: /arxiv$/ } } ) 
+db.collection.find( ... ).limit(1)
+db.products.find( { sku: { $regex: /789$/ } } ).limit(1)
+db.users.find({"name": {"$regex": "string", "$options": "i"}})
 # Source: https://docs.mongodb.com/manual/reference/operator/query/regex/#examples
+
+
