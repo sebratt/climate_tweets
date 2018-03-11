@@ -11,3 +11,4 @@ db.users.find({"name": {"$regex": "string", "$options": "i"}})
 # Source: https://docs.mongodb.com/manual/reference/operator/query/regex/#examples
 
 
+db.tweets.aggregate(    [ { $sample: { size: 3 } } ]  )
