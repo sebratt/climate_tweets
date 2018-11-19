@@ -1,3 +1,4 @@
+mongo
 show dbs
 use <name of db> 
 show collections
