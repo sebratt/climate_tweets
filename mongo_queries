@@ -1,6 +1,7 @@
 mongo 
 # or mongo.admin
-# db.auth
+# db.auth(" ", " "). 
+
 show dbs
 use <name of db> 
 show collections
