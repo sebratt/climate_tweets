@@ -1,6 +1,6 @@
 mongo 
-# or mongo.admin
-# db.auth(" ", " "). 
+use admin
+db.auth("username", "pw")
 
 show dbs
 use <name of db> 
