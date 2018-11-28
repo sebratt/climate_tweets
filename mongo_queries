@@ -1,4 +1,6 @@
-mongo
+mongo 
+# or mongo.admin
+# db.auth
 show dbs
 use <name of db> 
 show collections
@@ -13,3 +15,7 @@ db.users.find({"name": {"$regex": "string", "$options": "i"}})
 
 
 db.tweets.aggregate(    [ { $sample: { size: 3 } } ]  )
+
+# change pw
+sudo passwd USERNAME
+
