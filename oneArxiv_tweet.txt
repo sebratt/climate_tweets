@@ -1,0 +1,161 @@
+{
+        "_id" : ObjectId("5bfcde8106036366e7792a25"),
+        "quote_count" : 0,
+        "contributors" : null,
+        "truncated" : false,
+        "tweet_type" : "track",
+        "text" : "GuacaMol: Benchmarking Models for De Novo Molecular Design. (arXiv:1811.09621v1 [q-bio.QM]) https://t.co/fzPw7Ety2K #chemicalphysics",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "reply_count" : 0,
+        "id" : NumberLong("1067283046251020288"),
+        "favorite_count" : 0,
+        "source" : "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+        "retweeted" : false,
+        "coordinates" : null,
+        "timestamp_ms" : "1543295082043",
+        "entities" : {
+                "user_mentions" : [ ],
+                "symbols" : [ ],
+                "hashtags" : [
+                        {
+                                "indices" : [
+                                        116,
+                                        132
+                                ],
+                                "text" : "chemicalphysics"
+                        }
+                ],
+                "urls" : [
+                        {
+                                "url" : "https://t.co/fzPw7Ety2K",
+                                "indices" : [
+                                        92,
+                                        115
+                                ],
+                                "expanded_url" : "http://j.mp/2SkKJJV",
+                                "display_url" : "j.mp/2SkKJJV"
+                        }
+                ]
+        },
+        "in_reply_to_screen_name" : null,
+        "id_str" : "1067283046251020288",
+        "retweet_count" : 0,
+        "in_reply_to_user_id" : null,
+        "favorited" : false,
+        "user" : {
+                "follow_request_sent" : null,
+                "profile_use_background_image" : false,
+                "contributors_enabled" : false,
+                "id" : 46854930,
+                "default_profile" : false,
+                "verified" : false,
+                "profile_image_url_https" : "https://pbs.twimg.com/profile_images/502208695854313472/mupwPlOC_normal.jpeg",
+                "profile_sidebar_fill_color" : "C0DFEC",
+                "profile_text_color" : "333333",
+                "followers_count" : 18917,
+                "profile_sidebar_border_color" : "000000",
+                "location" : "Arlington, VA and Worldwide ",
+                "default_profile_image" : false,
+                "id_str" : "46854930",
+                "utc_offset" : null,
+                "statuses_count" : 446334,
+                "description" : null,
+                "friends_count" : 8188,
+                "profile_link_color" : "C96106",
+                "created_ts" : ISODate("2009-06-13T08:44:29Z"),
+                "profile_image_url" : "http://pbs.twimg.com/profile_images/502208695854313472/mupwPlOC_normal.jpeg",
+                "notifications" : null,
+                "geo_enabled" : false,
+                "profile_background_color" : "326988",
+                "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "name" : "BlackPhysicists",
+                "lang" : "en",
+                "following" : null,
+                "profile_background_tile" : false,
+                "favourites_count" : 1772,
+                "screen_name" : "BlackPhysicists",
+                "url" : null,
+                "created_at" : "Sat Jun 13 08:44:29 +0000 2009",
+                "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "time_zone" : null,
+                "protected" : false,
+                "translator_type" : "none",
+                "is_translator" : false,
+                "listed_count" : 1313
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "ca",
+        "created_ts" : ISODate("2018-11-27T05:04:42Z"),
+        "created_at" : "Tue Nov 27 05:04:42 +0000 2018",
+        "filter_level" : "low",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "stack_vars" : {
+                "created_ts" : "2018-11-27 05:04:42",
+                "codes" : [ ],
+                "hashtags" : [
+                        "chemicalphysics"
+                ],
+                "text_hash" : "3895b0c86286dd34ca030c10e29a1dbe",
+                "full_tweet" : {
+                        "display_text_range" : [
+                                0,
+                                132
+                        ],
+                        "entities" : {
+                                "user_mentions" : [ ],
+                                "symbols" : [ ],
+                                "hashtags" : [
+                                        {
+                                                "indices" : [
+                                                        116,
+                                                        132
+                                                ],
+                                                "text" : "chemicalphysics"
+                                        }
+                                ],
+                                "urls" : [
+                                        {
+                                                "url" : "https://t.co/fzPw7Ety2K",
+                                                "indices" : [
+                                                        92,
+                                                        115
+                                                ],
+                                                "expanded_url" : "http://j.mp/2SkKJJV",
+                                                "display_url" : "j.mp/2SkKJJV"
+                                        }
+                                ]
+                        },
+                        "full_text" : "GuacaMol: Benchmarking Models for De Novo Molecular Design. (arXiv:1811.09621v1 [q-bio.QM]) https://t.co/fzPw7Ety2K #chemicalphysics"
+                },
+                "user" : {
+                        "created_ts" : "2009-06-13 08:44:29"
+                },
+                "track_kw" : {
+                        "rt_tweet" : {
+
+                        },
+                        "org_tweet" : {
+                                "mentions" : [ ],
+                                "hashtags" : [ ],
+                                "urls" : [ ],
+                                "text" : [
+                                        "arxiv"
+                                ]
+                        },
+                        "qt_tweet" : {
+
+                        }
+                },
+                "mentions" : [ ],
+                "entities_counts" : {
+                        "user_mentions" : 0,
+                        "hashtags" : 1,
+                        "coded_urls" : 0,
+                        "urls" : 1
+                }
+        }
+}
