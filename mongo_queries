@@ -7,6 +7,7 @@ use <name of db>
 show collections
 
 db.tweets.findOne()
+db.tweets.count()
 db.tweets.find( { text: { $regex: /ppm$/ } } ) #regular expression match for SELECT * FROM tweets WHERE text like "%ppm"
 db.tweets.find( { text: { $regex: /arxiv$/ } } ) 
 db.collection.find( ... ).limit(1)
